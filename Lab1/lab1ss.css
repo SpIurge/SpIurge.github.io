@@ -55,3 +55,9 @@ body{
   font-weight: 400;
   font-style: normal;
 }
+
+.gform{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
