@@ -61,3 +61,25 @@ body{
     justify-content: center;
     align-items: center;
 }
+.txt{
+    color: white;
+    text-align: center;
+}
+.csumb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul {
+    text-align: center;
+    width: 50%;
+    margin: 0 auto; 
+    list-style: none; 
+    padding: 0;
+    color: white;
+}
+.ctable{
+    color: white;
+    margin: 0px auto;
+
+}
